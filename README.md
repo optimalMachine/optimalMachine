@@ -20,6 +20,6 @@
 
 ### 📕 Latest Project(s)
 
-- <a href="http://www.google.com">1. Net Ninja Pro. (A product landing page)</a>
+- 1. Net Ninja Pro. (A product landing page)
 
 - 2. Shoeshop (ecommerce website. Will be updated soon.)
