@@ -22,6 +22,6 @@
 
 - <a href="https://net-ninja-pro-landing.herokuapp.com/" target="_blank">1. Net Ninja Pro. (A product(book) landing page. Reponsive frontend design. Backend (Nodejs & Express) is still in progress.) </a>
 
-  <a href="https://net-ninja-pro-landing.herokuapp.com/" target="_blank">Net Ninja Pro Github source code</a>
+  <a href="https://github.com/optimalMachine/landingPage" target="_blank">Net Ninja Pro Github source code</a>
 
 - 2. Shoeshop (ecommerce website. Will be updated soon.)
