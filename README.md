@@ -20,6 +20,7 @@
 
 ### 📕 Latest Project(s)
 
-- <a href="https://net-ninja-pro-landing.herokuapp.com/">1. Net Ninja Pro. (A product(book) landing page. Reponsive frontend design. Backend (Nodejs & Express) is still in progress.) Github: https://github.com/optimalMachine/landingPage </a>
+- <a href="https://net-ninja-pro-landing.herokuapp.com/" target="_blank">1. Net Ninja Pro. (A product(book) landing page. Reponsive frontend design. Backend (Nodejs & Express) is still in progress.) </a>
+  <a href="https://net-ninja-pro-landing.herokuapp.com/" target="_blank">Github source code: https://github.com/optimalMachine/landingPage </a>
 
 - 2. Shoeshop (ecommerce website. Will be updated soon.)
