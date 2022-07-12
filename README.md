@@ -1,6 +1,6 @@
 ## Hello. I'm Jiuk - aka [optimalMachine]
 
-### I'm a full stack developer!!
+### I'm a frontend web developer!!
 
 - I’m currently learning everything (literally everything!!)
 - I’m looking to collaborate with other developers
@@ -20,4 +20,6 @@
 
 ### 📕 Latest Project(s)
 
-- Will be updated soon...
+- 1. Net Ninja Pro. (A product landing page)
+
+- 2. Shoeshop (ecommerce website. Will be updated soon.)
