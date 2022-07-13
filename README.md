@@ -24,4 +24,4 @@
 
   <a href="https://github.com/optimalMachine/landingPage" target="_blank">Net Ninja Pro Github source code</a>
 
-- 2. Tinder clone (A tinder-clone web app exactly performs like the real Tinder. Will be updated soon.)
+- 2. Tinder clone (A Tinder clone web app exactly performs like the real Tinder. Will be updated soon.)
