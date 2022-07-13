@@ -1,6 +1,6 @@
 ## Hello. I'm Jiuk - aka [optimalMachine]
 
-### I'm a frontend web developer!!
+### I'm a full stack web developer!!
 
 - I’m currently learning everything (literally everything!!)
 - I’m looking to collaborate with other developers
@@ -24,4 +24,4 @@
 
   <a href="https://github.com/optimalMachine/landingPage" target="_blank">Net Ninja Pro Github source code</a>
 
-- 2. Shoeshop (ecommerce website. Will be updated soon.)
+- 2. Tinder clone (A tinder-clone web app exactly performs like the real Tinder. Will be updated soon.)
