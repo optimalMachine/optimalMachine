@@ -20,8 +20,8 @@
 
 ### 📕 Latest Project(s)
 
-- <a href="https://net-ninja-pro-landing.herokuapp.com/" target="_blank">1. Net Ninja Pro. (A product(book) landing page. Reponsive frontend design using Bootstrap5. </a>
+- <a href="https://net-ninja-pro-landing.herokuapp.com/" target="_blank">1. Net Ninja Pro</a> A product(book) landing page. Reponsive frontend design using Bootstrap5.
 
   <a href="https://github.com/optimalMachine/landingPage" target="_blank">Net Ninja Pro Github source code</a>
 
-- <a href="https://github.com/optimalMachine/frontend-mentor-exercise" target="_blank">2. Frontend Mentor Exercises & Solutions. (A collection of Frontend Mentor(https://www.frontendmentor.io/home) exercises & solutions.
+- <a href="https://github.com/optimalMachine/frontend-mentor-exercise" target="_blank">2. Frontend Mentor Exercises & Solutions</a> A collection of Frontend Mentor(https://www.frontendmentor.io/home) exercises & solutions.
