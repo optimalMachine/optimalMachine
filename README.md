@@ -30,6 +30,10 @@ Founder of Algorithmic Trading System Inc. Plus, I am a web developer who love t
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
+### Socials
+
+<p align="left"> <a href="https://www.github.com/optimalMachine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jiuk-choi-3b1972167/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### 📕 Latest Project(s)
 
 - <a href="https://net-ninja-pro-landing.herokuapp.com/" target="_blank">1. Net Ninja Pro</a> A product(book) landing page. Reponsive frontend design using Bootstrap5.
@@ -37,10 +41,6 @@ Founder of Algorithmic Trading System Inc. Plus, I am a web developer who love t
   <a href="https://github.com/optimalMachine/landingPage" target="_blank">Net Ninja Pro Github source code</a>
 
 - <a href="https://github.com/optimalMachine/frontend-mentor-exercises" target="_blank">2. Frontend Mentor Exercises & Solutions</a> A collection of Frontend Mentor(https://www.frontendmentor.io) exercises & solutions.
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/optimalMachine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jiuk-choi-3b1972167/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
