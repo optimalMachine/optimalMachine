@@ -24,4 +24,4 @@
 
   <a href="https://github.com/optimalMachine/landingPage" target="_blank">Net Ninja Pro Github source code</a>
 
-- <a href="https://github.com/optimalMachine/frontend-mentor-exercise" target="_blank">2. Frontend Mentor Exercises & Solutions</a> A collection of Frontend Mentor(https://www.frontendmentor.io) exercises & solutions.
+- <a href="https://github.com/optimalMachine/frontend-mentor-exercises" target="_blank">2. Frontend Mentor Exercises & Solutions</a> A collection of Frontend Mentor(https://www.frontendmentor.io) exercises & solutions.
