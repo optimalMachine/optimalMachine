@@ -1,6 +1,6 @@
-# Hi 👋 My name is Jiuk Choi
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jiuk Choi
 
-## Full Stack Web Developer
+## Solidity Developer & Web Developer
 
 Founder of Algorithmic Trading System Inc. Plus, I am a web developer who love the process of software development which is able to take something from a concept / idea to a real product.
 
