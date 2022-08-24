@@ -28,19 +28,13 @@ Founder of Algorithmic Trading System Inc. Plus, I am a web developer who love t
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
 </p>
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/optimalMachine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jiuk-choi-3b1972167/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### 📕 Latest Project(s)
-
-- <a href="https://net-ninja-pro-landing.herokuapp.com/" target="_blank">1. Net Ninja Pro</a> A product(book) landing page. Reponsive frontend design using Bootstrap5.
-
-  <a href="https://github.com/optimalMachine/landingPage" target="_blank">Net Ninja Pro Github source code</a>
-
-- <a href="https://github.com/optimalMachine/frontend-mentor-exercises" target="_blank">2. Frontend Mentor Exercises & Solutions</a> A collection of Frontend Mentor(https://www.frontendmentor.io) exercises & solutions.
 
 ### Badges
 
