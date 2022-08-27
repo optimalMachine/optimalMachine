@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jiuk Choi
 
-## Solidity Developer & Web Developer
+## Full Stack Web Developer
 
 Founder of Algorithmic Trading System Inc. Plus, I am a web developer who love the process of software development which is able to take something from a concept / idea to a real product.
 
@@ -8,7 +8,7 @@ Founder of Algorithmic Trading System Inc. Plus, I am a web developer who love t
 - 🖥️  See my portfolio at [jiukchoi.com](http://jiukchoi.com)
 - ✉️  You can contact me at [me@jiukchoi.com](mailto:me@jiukchoi.com)
 - 🚀  I'm currently working on [Algorithmic Trading System Inc.](http://www.algotradingsysteminc.com/)
-- 🧠  I'm learning a new framework such as Vuejs, React Native, languages such as PHP & Python, and data science.
+- 🧠  I'm learning Blockchain
 
 ### Skills
 
