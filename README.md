@@ -5,7 +5,7 @@
 Founder of Algorithmic Trading System Inc. Plus, I am a developer who love the process of software development which is able to take something from a concept / idea to a real product.
 
 - 🌍  I'm based in Dallas, Texas
-- 🖥️  See my portfolio at [jiukchoi.com](http://jiukchoi.com)
+- 🖥️  See my portfolio at [binarybard.com](http://binarybard.com)
 - ✉️  You can contact me at [hello@jiukchoi.net](mailto:hello@jiukchoi.net)
 - 🚀  I'm currently working on [Algorithmic Trading System Inc.](http://www.algotradingsysteminc.com/)
 - 🧠  I'm learning Blockchain
