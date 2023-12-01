@@ -8,7 +8,7 @@ Founder of Algorithmic Trading System Inc. Plus, I am a developer who love the p
 - 🖥️  See my portfolio at [binarybard.com](http://binarybard.com)
 - ✉️  You can contact me at [hello@jiukchoi.net](mailto:hello@jiukchoi.net)
 - 🚀  I'm currently working on [Algorithmic Trading System Inc.](http://www.algotradingsysteminc.com/)
-- 🧠  I'm learning Blockchain
+- 🧠  I'm learning AI Engineering
 
 ### Skills
 
