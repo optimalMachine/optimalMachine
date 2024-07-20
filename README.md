@@ -1,14 +1,18 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jiuk Choi
 
-## Front End Developer & Blockchain Developer
+## Full Stack Web Developer & AI Engineer
 
-Founder of Algorithmic Trading System Inc. Plus, I am a developer who love the process of software development which is able to take something from a concept / idea to a real product.
+I'm a web developer who helps small and growing businesses build great websites. Whether you need a site to find customers, show what you do, or sell your products online, I can create it for you.
 
-- 🌍  I'm based in Dallas, Texas
-- 🖥️  See my portfolio at [jiukchoi.com](http://jiukchoi.com)
-- ✉️  You can contact me at [hello@jiukchoi.net](mailto:hello@jiukchoi.net)
-- 🚀  I'm currently working on [Algorithmic Trading System Inc.](http://www.algotradingsysteminc.com/)
-- 🧠  I'm learning Blockchain
+- I know how to use many tools to build websites, like JavaScript, Python, and databases
+- I can handle your whole project from start to finish
+- I think it's important to talk often about the project, so we'll stay in touch regularly
+
+* 🌍  I'm based in Dallas, Texas
+* 🖥️  See my portfolio / current project at [chatsleuth](https://github.com/optimalMachine/chatsleuth)
+* ✉️  You can contact me at [binarybard10101@gmail.com](mailto:binarybard10101@gmail.com)
+* 🚀  I'm currently working on [Algorithmic Trading System Inc.](http://www.algotradingsysteminc.com/)
+* 🧠  I'm learning Blockchain & AI engineering
 
 ### Skills
 
