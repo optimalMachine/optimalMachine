@@ -2,8 +2,6 @@
 
 ## Full Stack Web Developer & AI Engineer
 
-## AI Engineer / AI Developer
-
 I'm a web developer who helps small and growing businesses build great websites. Whether you need a site to find customers, show what you do, or sell your products online, I can create it for you.
 
 - I know how to use many tools to build websites, like JavaScript, Python, and databases
