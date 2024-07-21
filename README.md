@@ -9,9 +9,8 @@ I'm a web developer who helps small and growing businesses build great websites.
 - I think it's important to talk often about the project, so we'll stay in touch regularly
 
 * 🌍  I'm based in Dallas, Texas
-* 🖥️  See my portfolio / current project at [chatsleuth](https://github.com/optimalMachine/chatsleuth)
+* 🖥️  See my portfolio / current project at [Chatsleuth](https://github.com/optimalMachine/chatsleuth)
 * ✉️  You can contact me at [binarybard10101@gmail.com](mailto:binarybard10101@gmail.com)
-* 🚀  I'm currently working on [Algorithmic Trading System Inc.](http://www.algotradingsysteminc.com/)
 * 🧠  I'm learning Blockchain & AI engineering
 
 ### Skills
